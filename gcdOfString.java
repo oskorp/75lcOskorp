@@ -1,7 +1,7 @@
 public class gcdOfString {
     public static void main(String[] args) {
-        String s1= "OmOmOm";
-        String s2 = "OmOm";
+        String s1= "ABABAB";
+        String s2 = "AB";
         System.out.println(code2(s1, s2));
         
     }
